@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.3.1">
-    <name>Moodle Mobile</name>
+    <name>Shubham Learning</name>
     <description>
-        Moodle Mobile official app
+        Shubham Learning Module
     </description>
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="https://learning.shubham.co/shubham/">
+      Shubham Learning 
     </author>
     <content src="index.html"/>
     <access origin="*"/>
@@ -21,7 +21,7 @@
     <preference name="target-device" value="universal"/>
     <preference name="fullscreen" value="false"/>
     <preference name="webviewbounce" value="false"/>
-    <preference name="AppendUserAgent" value="MoodleMobile"/>
+    <preference name="AppendUserAgent" value="ShubhamLearning"/>
     <preference name="android-minSdkVersion" value="14"/>
     <preference name="android-targetSdkVersion" value="19"/>
     <preference name="UIWebViewBounce" value="false"/>
